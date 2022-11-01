@@ -1,7 +1,6 @@
 # oplati_senler
 1) В cmd прописать 
-pip3 (или просто pip) install vk
-pip3 install openpyxl
+pip3 (или просто pip) install vk vk_api openpyxl
 2) В файле my_token прописать токен сообщества. Заходим в сообщество -> управление -> работа с api -> ключи доступа
 Создаем ключ и вставляем его в файл my_token.
 3) Включаем Long Poll Api (на будущее) в том же разделе работа с api
